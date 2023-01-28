@@ -1,0 +1,7 @@
+C:\Users\YazanG\source\repos\my-book-training-api\my-book-training-api\obj\Debug\net5.0\my-book-training-api.csproj.AssemblyReference.cache
+C:\Users\YazanG\source\repos\my-book-training-api\my-book-training-api\obj\Debug\net5.0\my-book-training-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YazanG\source\repos\my-book-training-api\my-book-training-api\obj\Debug\net5.0\my-book-training-api.AssemblyInfoInputs.cache
+C:\Users\YazanG\source\repos\my-book-training-api\my-book-training-api\obj\Debug\net5.0\my-book-training-api.AssemblyInfo.cs
+C:\Users\YazanG\source\repos\my-book-training-api\my-book-training-api\obj\Debug\net5.0\my-book-training-api.csproj.CoreCompileInputs.cache
+C:\Users\YazanG\source\repos\my-book-training-api\my-book-training-api\obj\Debug\net5.0\my-book-training-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YazanG\source\repos\my-book-training-api\my-book-training-api\obj\Debug\net5.0\my-book-training-api.MvcApplicationPartsAssemblyInfo.cache
